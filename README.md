@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Juan David Quintero García</h1>
+<h1 align="center">👋 Hola, soy Juan Jose Ospina Sanchez</h1>
 <h3 align="center">🧑‍💻 Desarrollador de Software | Colombia</h3>
 
 ---
