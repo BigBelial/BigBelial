@@ -16,7 +16,7 @@ Me encuentro cursando **Ingeniería de Sistemas** y ya obtuve el título de **Te
 | Categoría         | Tecnologías                                                                 |
 |-------------------|------------------------------------------------------------------------------|
 | 👨‍💻 Lenguajes     | Java, Python, JavaScript, C++, C#, SQL                                        |
-| 🧰 Frameworks      | Spring Boot, Django, Flask, React, Angular, React Native, NestJS             |
+| 🧰 Frameworks      | Spring Boot, Django, React, Angular, React Native, NestJS             |
 | 🧪 Testing         | Postman, Swagger, JUnit                                                       |
 | 📦 Contenedores    | Docker, Docker Compose                                                        |
 | ☁️ DevOps          | Git, GitHub, Linux, Active Directory                                          |
