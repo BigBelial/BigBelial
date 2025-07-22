@@ -20,7 +20,7 @@ Me encuentro cursando **Ingeniería de Sistemas** y ya obtuve el título de **Te
 | 🧪 Testing         | Postman, Swagger, JUnit                                                       |
 | 📦 Contenedores    | Docker, Docker Compose                                                        |
 | ☁️ DevOps          | Git, GitHub, Linux, Active Directory                                          |
-| 🗃️ Bases de Datos  | MySQL, PostgreSQL, MongoDB, Firebase                                          |
+| 🗃️ Bases de Datos  | MySQL, PostgreSQL, MongoDB, Firebase, Supabase                                        |
 | 🧭 Metodologías    | Agile, Scrum                                                                  |
 
 ---
