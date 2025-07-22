@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Juan David Quintero García</h1>
-<h3 align="center">🧑‍💻 Desarrollador de Software | Colombia 🇨🇴</h3>
+<h3 align="center">🧑‍💻 Desarrollador de Software | Colombia</h3>
 
 ---
 
@@ -73,7 +73,6 @@ Actualmente estoy creando proyectos con **Spring Boot**, **Angular**, y manejo d
 
 - ✉️ juanjoseospina200325@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/juan-jose-ospina-sanchez-016454207/)  
-- 💻 GitHub: [@juandoqg](https://github.com/juandoqg)
 
 ---
 
